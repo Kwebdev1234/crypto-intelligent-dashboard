@@ -1,5 +1,5 @@
 {
-  "name": "crypto-price-tracker",
+  "name": "crypto-intelligence-dashboard",
   "private": true,
   "description": "Crypto Intelligence Dashboard",
   "version": "2.0.0",
@@ -17,10 +17,10 @@
     "test:watch": "vitest"
   },
   "license": "MIT",
-  "homepage": "https://github.com/darshangaikwad4114/Cryptocurrency-Price-Tracker#readme",
+  "homepage": "https://github.com/Kwebdev1234/crypto-intelligent-dashboard/blob/main/README.md",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/darshangaikwad4114/Cryptocurrency-Price-Tracker.git"
+    "url": "https://crypto-intelligent-dashboard.netlify.app/"
   },
   "keywords": [
     "cryptocurrency",

@@ -22,7 +22,7 @@ A modern cryptocurrency <strong>Market Intelligence Platform</strong> built with
 
 <p align="center">
 
-🚀 <a href="https://YOUR-NETLIFY-URL.netlify.app" target="_blank"><strong>Live Demo</strong></a> •
+🚀 <a href="https://crypto-intelligent-dashboard.netlify.app" target="_blank"><strong>Live Demo</strong></a> •
 📖 <a href="./CASE_STUDY.md"><strong>Case Study</strong></a> •
 💻 <a href="https://github.com/Kwebdev1234/crypto-intelligent-dashboard" target="_blank"><strong>GitHub Repository</strong></a>
 

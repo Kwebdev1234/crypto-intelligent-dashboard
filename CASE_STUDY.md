@@ -12,11 +12,7 @@ The Crypto Intelligence Dashboard is a sophisticated web application built with 
 - **Multiple View Modes**: Toggle between grid and list layouts for customized data visualization
 - **Advanced Filtering System**: Filter by price ranges, market cap categories, and text search
 - **Interactive Sorting**: Sort cryptocurrencies by market cap, price, volume, or name in ascending/descending order
-- **Detailed Coin Information**: Comprehensive metrics and historical data for each cryptocurrency
-
-## 🎥 Application Demo
-
-▶️ **Watch the demo:** [demo.mp4](./docs/demo.mp4)
+- **Detailed Coin Information**: Comprehensive metrics and historical data for each cryptocurrency\
 
 ### User Experience Features
 
@@ -244,5 +240,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 For any inquiries, feature requests, or collaboration opportunities, please contact:
 
 - **Email**: kwebdev72@gmail.com
+<p align="center">
 
----
+## 🚀 <a href="https://crypto-intelligent-dashboard.netlify.app" target="_blank"><strong>Live Demo</strong></a> •
